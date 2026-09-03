@@ -1,12 +1,10 @@
 # Diwen Huang
 
-Rising senior at Port Moody Secondary.
-
-Built [Smashspeed](https://smashspeed.ca), a badminton speed tracker with 57,000+ users that reached number 1 on the App Store Sports chart. Created [Freakysaur](https://haocuii.itch.io/steve-the-freakysaur), winner of the [Daydream](https://daydream.hackclub.com) game jam with 250K+ impressions. Founding engineer at [Solace](https://solacelaunch.com), backed by UC Berkeley and [Virtuals Protocol](https://virtuals.io). Intern at [Clutch](https://clutchapp.io). Shipped [OpenReply](https://github.com/diwenne/openreply) and attended [YC Startup School](https://events.ycombinator.com/startup-school-2026).
+Hello, I'm Diwen, a rising senior at Port Moody Secondary. Since last summer I've been building [Smashspeed](https://smashspeed.ca), a badminton speed tracker. To my surprise, we have now amassed over 57,000 users and briefly reigned no1 on the App Store for Sports. My career was initiated by [Freakysaur](https://haocuii.itch.io/steve-the-freakysaur). This won the [Daydream](https://daydream.hackclub.com) game jam and hit 250K+ impressions on LinkedIn, whence I received my first engineering offers (mid-five-figures, part time). Last November I joined [Solace](https://solacelaunch.com) as a founding engineer, backed by UC Berkeley and [Virtuals Protocol](https://virtuals.io), then interned at [Clutch](https://clutchapp.io) early this year. This month I shipped [OpenReply](https://github.com/diwenne/openreply) (now at 300 stars) and attended [YC Startup School](https://events.ycombinator.com/startup-school-2026)! On a lighter note, I also enjoy reading, watching movies, [taking photos](https://vsco.co/diwennee/gallery), and playing badminton!
 
 ## OpenReply
 
-Maintainer of [OpenReply](https://github.com/diwenne/openreply), an open source alternative to ManyChat for Instagram comment to DM automation. Self hosted and free.
+The open source ManyChat alternative.
 
 [![Star History Chart](star-history.png)](https://star-history.com/#diwenne/openreply&Date)
 
