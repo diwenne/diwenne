@@ -10,7 +10,7 @@ The open source ManyChat alternative.
 
 ## Links
 
-- Website: [diwen.dev](https://diwen.dev) / [diwenhuang.ca](https://diwenhuang.ca)
+- Website: [diwenhuang.ca](https://diwenhuang.ca)
 - GitHub: [@diwenne](https://github.com/diwenne)
 - X: [@diwennee](https://x.com/diwennee)
 - Instagram: [@devdiwen](https://instagram.com/devdiwen)
